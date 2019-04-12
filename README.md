@@ -1,4 +1,4 @@
-This Project is deployde on [Github Pages](https://sappusaketh.github.io/TrelloClone/)
+This Project is deployed on [Github Pages](https://sappusaketh.github.io/TrelloClone/)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
