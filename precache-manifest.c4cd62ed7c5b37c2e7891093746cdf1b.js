@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/TrelloClone/static/js/runtime~main.1039ce61.js"
   },
   {
-    "revision": "7824daa97e1821ca30c5",
-    "url": "/TrelloClone/static/js/main.4bd06f8a.chunk.js"
+    "revision": "37677f37354173bd999c",
+    "url": "/TrelloClone/static/js/main.817d855a.chunk.js"
   },
   {
     "revision": "f0b521c66bc702a37631",
     "url": "/TrelloClone/static/js/2.9f4f2337.chunk.js"
   },
   {
-    "revision": "7824daa97e1821ca30c5",
-    "url": "/TrelloClone/static/css/main.c36238ad.chunk.css"
+    "revision": "37677f37354173bd999c",
+    "url": "/TrelloClone/static/css/main.b8038923.chunk.css"
   },
   {
-    "revision": "fada9da9dc4803574f3b4254ca83d5d6",
+    "revision": "b25a4dd5af9bb736b85bd425618ada35",
     "url": "/TrelloClone/index.html"
   }
 ];
